@@ -1,2 +1,0 @@
-# university-project
-google colab
